@@ -9,7 +9,6 @@ function Home() {
     <>
       <Hero />
       <Card />
-      <Footer />
     </>
   );
 }
