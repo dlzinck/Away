@@ -29,40 +29,142 @@ function Footer() {
         <div className="footer-link-wrapper">
           <div className="footer-link-items">
             <h2>About Us</h2>
-            <Link to="/sign-up">How it works</Link>
-            <Link to="/">Testimonials</Link>
-            <Link to="/">Careers</Link>
-            <Link to="/">Investors</Link>
-            <Link to="/">Terms of Service</Link>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              How it works
+            </a>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Testimonials
+            </a>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Careers
+            </a>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Investors
+            </a>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Terms of Service
+            </a>
           </div>
           <div className="footer-link-items">
             <h2>Contact Us</h2>
-            <Link to="/">Contact</Link>
-            <Link to="/">Support</Link>
-            <Link to="/">Destinations</Link>
-            <Link to="/">Sponsorships</Link>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Contact
+            </a>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Support
+            </a>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Destinations
+            </a>
+            <a
+              href="https://dlzinck.github.io/Portfolio/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Sponsorships
+            </a>
           </div>
           <div className="footer-link-wrapper">
             <div className="footer-link-items">
               <h2>Videos</h2>
-              <Link to="/">Submit Video</Link>
-              <Link to="/">Ambassadors</Link>
-              <Link to="/">Agency</Link>
-              <Link to="/">Influencer</Link>
+              <a
+                href="https://dlzinck.github.io/Portfolio/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Submit Video
+              </a>
+              <a
+                href="https://dlzinck.github.io/Portfolio/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Ambassadors
+              </a>
+              <a
+                href="https://dlzinck.github.io/Portfolio/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Agency
+              </a>
+              <a
+                href="https://dlzinck.github.io/Portfolio/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Influencer
+              </a>
             </div>
             <div className="footer-link-items">
               <h2>Social Media</h2>
-              <Link to="/">Instagram</Link>
-              <Link to="/">Facebook</Link>
-              <Link to="/">Youtube</Link>
-              <Link to="/">Twitter</Link>
+              <a
+                href="https://dlzinck.github.io/Portfolio/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Instagram
+              </a>
+              <a
+                href="https://dlzinck.github.io/Portfolio/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Facebook
+              </a>
+              <a
+                href="https://dlzinck.github.io/Portfolio/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Youtube
+              </a>
+              <a
+                href="https://dlzinck.github.io/Portfolio/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Twitter
+              </a>
             </div>
           </div>
         </div>
         <section className="social-media">
           <div className="social-media-wrap">
             <div className="footer-logo">
-              <Link to="/" className="social-logo">
+              <Link to="/Away" className="social-logo">
                 Away
                 <i className="far fa-paper-plane" />
               </Link>
@@ -71,7 +173,7 @@ function Footer() {
             <div className="social-icons">
               <Link
                 className="social-icon-link facebook"
-                to="/"
+                to="/Away"
                 target="_blank"
                 aria-label="Facebook"
               >
@@ -79,7 +181,7 @@ function Footer() {
               </Link>
               <Link
                 className="social-icon-link instagram"
-                to="/"
+                to="/Away"
                 target="_blank"
                 aria-label="Instagram"
               >
@@ -87,7 +189,7 @@ function Footer() {
               </Link>
               <Link
                 className="social-icon-link youtube"
-                to="/"
+                to="/Away"
                 target="_blank"
                 aria-label="Youtube"
               >
@@ -95,7 +197,7 @@ function Footer() {
               </Link>
               <Link
                 className="social-icon-link twitter"
-                to="/"
+                to="/Away"
                 target="_blank"
                 aria-label="Twitter"
               >
@@ -103,7 +205,7 @@ function Footer() {
               </Link>
               <Link
                 className="social-icon-link twitter"
-                to="/"
+                to="/Away"
                 target="_blank"
                 aria-label="LinkedIn"
               >
