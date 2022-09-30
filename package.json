@@ -1,5 +1,6 @@
 {
   "name": "away",
+  "homepage": "https://dlzinck.github.io/Away/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
